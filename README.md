@@ -15,4 +15,4 @@
 
 semoga bermanfaat
 
-Deploy <link href="https://laravel8-crud-ajax-faizalanwar.herokuapp.com/posts">Heroku
+[Klik disini untuk melihat hasil deploy ](https://laravel8-crud-ajax-faizalanwar.herokuapp.com/posts)
